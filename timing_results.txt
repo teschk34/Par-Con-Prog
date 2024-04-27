@@ -1,0 +1,92 @@
+
+Testing executable: hw3_BPTP
+Number of processes: 1
+Run 1:
+Total time taken = 5638.475931 seconds
+5638.70 seconds
+Run 2:
+Total time taken = 5654.050842 seconds
+5654.30 seconds
+Run 3:
+Total time taken = 5636.872482 seconds
+5637.10 seconds
+
+Number of processes: 2
+Run 1:
+Total time taken = 5638.475931 seconds
+5638.70 seconds
+Run 2:
+Total time taken = 5570.112158 seconds
+5570.31 seconds
+Run 3:
+Total time taken = 5570.797008 seconds
+5571.00 seconds
+
+Number of processes: 4
+Run 1:
+Total time taken = 7198.342877 seconds
+7198.65 seconds
+Run 2:
+Total time taken = 7023.316600 seconds
+7023.63 seconds556
+Run 3:
+Total time taken = 7032.618563 seconds
+7032.95 seconds
+
+Number of processes: 8
+Run 1:
+Total time taken = 6781.510099 seconds
+6781.73 seconds
+Run 2:
+Total time taken = 6797.444994 seconds
+6797.74 seconds
+Run 3:
+Total time taken = 6797.669688 seconds
+6797.96 seconds
+
+========================
+Testing executable: hw3_NBPTP
+Number of processes: 1
+Run 1:
+Total time taken = 5997.16 seconds
+5997.16 seconds
+Run 2:
+Total time taken = 5988.22 seconds
+5988.22 seconds
+Run 3:
+Total time taken = 5996.83 seconds
+5996.83 seconds
+
+Number of processes: 2
+Run 1:
+Total time taken = 5498.78 seconds
+5498.78 seconds
+Run 2:
+Total time taken = 5501.21 seconds
+5501.21 seconds
+Run 3:
+Total time taken = 5502.89 seconds
+5502.89 seconds
+
+Number of processes: 4
+Run 1:
+Total time taken = 7202.95 seconds
+7202.95 seconds
+Run 2:
+Total time taken = 7167.42 seconds
+7167.42 seconds
+Run 3:
+Total time taken = 7191.28 seconds
+7191.28 seconds
+
+Number of processes: 8
+Run 1:
+Total time taken = 6701.10 seconds
+6701.10 seconds
+Run 2:
+Total time taken = 6589.67 seconds
+6589.67 seconds
+Run 3:
+Total time taken = 6532.89 seconds
+6532.89 seconds
+
